@@ -7,7 +7,7 @@ public class Program
 {
     private const string blobServiceEndpoint = "https://mediastormch.blob.core.windows.net/";
     private const string storageAccountName = "mediastormch";
-    private const string storageAccountKey = "ErjYE1uS4gInKVknSQfWSYVHsK1Ytx0XVcqh2x61AFWsOjy9asWpin6mCzMeU+x90x1ROvZ9PwQHwyYsDFnQDA==";
+    private const string storageAccountKey = "key";
 
     public static async Task Main(string[] args)
     {
